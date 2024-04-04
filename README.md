@@ -1,6 +1,6 @@
 # Phoneme Classification
 
-This project focuses on the classification of phonemes in speech signals. The model has demonstrated a notable accuracy rate of **74.82%** on the task.
+Performing classification of phonemes in speech signals. The model has demonstrated a notable accuracy rate of **74.82%** on the task.
 
 ## Data Preprocessing
 
